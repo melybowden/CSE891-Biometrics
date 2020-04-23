@@ -6,10 +6,10 @@ using generative adversarial networks (GANs).
 This is implemented using TensorFlow and a Pix2Pix-style framework.
 
 ## Reconstruction Results
-![Facial Reconstruction](https://github.com/melybowden/CSE891-Biometrics/reconstruction.png)
+![Facial Reconstruction](https://github.com/melybowden/CSE891-Biometrics/blob/master/econstruction.png)
 The top rows are reconstructed, and the bottom are ground truth images.
 ## Joint Reconstruction and Manipulation Results
-![Facial Reconstruction with Manipulation](https://github.com/melybowden/CSE891-Biometrics/reconstruction_and_manipulation.png)
+![Facial Reconstruction with Manipulation](https://github.com/melybowden/CSE891-Biometrics/blob/master/reconstruction_and_manipulation.png)
 Ascending bottom to top: ground truth images, ground truth segmentation maps with average colors from the ground truth image, reconstructed images, new segmentation map with average colors from the ground truth image, manipulated image.
 
 ### Sources
